@@ -9,4 +9,4 @@
 ated.
 
 ## Visual Representation
-!()[my-env.png]
+![](my-env.svg)
